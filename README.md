@@ -8,3 +8,22 @@ In my spare time, I try to expand my horizon by trying out stuff in Azure or in 
 
 Feel free to contact me over here or on Twitter or on my [blog](https://jan-v.nl/).
 You can also find me on [Twitch](https://www.twitch.tv/jandev) and [YouTube](https://www.youtube.com/channel/UCLfd7HBMLYJ0Muou1ihl_DA) where I'll be streaming and posting videos regularly.
+
+## 🎃 Hacktoberfest 🎃
+
+If you're interested in contributing to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), I've added some (small) issues to a couple of my repositories. Feel free to add more as you see fit and create PR's.
+
+### The repositories
+
+* [URL Minifier service](https://github.com/Jandev/minifier)  
+  A service consisting of Azure Functions, queues & Cosmos DB repository
+* [ADR CLI tool](https://github.com/Jandev/adr-cli)  
+  A tool for creating ADR documents via the CLI
+* [Azure Functions Event Grid binding](https://github.com/Jandev/azurefunctions-eventgrid)  
+  An output binding for Azure Functions for Event Grid.
+* [Azure Functions HTTP binding](https://github.com/Jandev/azurefunctions-httpbinding)  
+  An Azure Function binding for HTTP calls. 
+* [Azure Functions SQL Server binding](https://github.com/Jandev/azurefunctions-sqlbinding)  
+  An Azure Function binding for SQL server.
+* [Secure API solution used while livecoding](https://github.com/Jandev/secure-apis)  
+  A solution consisting of several API's which are invoking eachother. This is used throughout my livecoding sessions. 
