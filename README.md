@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Let me do a small introduction of myself.  
 Currently, I'm a Cloud Solution Architect working at a medium-sized consulting firm called [4Dotnet](https://www.4dotnet.nl/).
@@ -9,11 +9,9 @@ In my spare time, I try to expand my horizon by trying out stuff in Azure or in 
 Feel free to contact me over here or on Twitter or on my [blog](https://jan-v.nl/).
 You can also find me on [Twitch](https://www.twitch.tv/jandev) and [YouTube](https://www.youtube.com/channel/UCLfd7HBMLYJ0Muou1ihl_DA) where I'll be streaming and posting videos regularly.
 
-## 🎃 Hacktoberfest 🎃
-
-If you're interested in contributing to [Hacktoberfest](https://hacktoberfest.digitalocean.com/), I've added some (small) issues to a couple of my repositories. Feel free to add more as you see fit and create PR's.
-
-### The repositories
+# The repositories
+If you are interested in contributing to one or more of my repositories, here are some suggestions.  
+They can all use some love and you can also raise issues or feature requests on the repositories.
 
 * [URL Minifier service](https://github.com/Jandev/minifier)  
   A service consisting of Azure Functions, queues & Cosmos DB repository
